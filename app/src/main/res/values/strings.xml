@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebasVistas</string>
+    <string name="saludo">Bienvenido a Android</string>
+    <string name="mensaje01">Este es mi segundo mensage</string>
+    <string name="etName">Introduce tu nombre</string>
+    <string name="btnSaludo">Entrar</string>
+</resources>
